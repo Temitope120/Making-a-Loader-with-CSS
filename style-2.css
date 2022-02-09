@@ -26,7 +26,6 @@ body{
     
 }
 .loader-2{
-    animation-name: loader-one;
     animation-delay: 0.3s;
     animation-timing-function: linear;
 }
